@@ -29,6 +29,11 @@ const questions = [{
 },
 {
     type: 'input', 
+    name: 'contributors',
+    message: 'Is there anyone else that contributed to the project?'
+},
+{
+    type: 'input', 
     name: 'test',
     message: 'What are the test guildines?'
 },
@@ -37,12 +42,12 @@ const questions = [{
     type: 'checkbox', 
     name: 'liscense',
     message: 'Which liscense is used here?',
-    choices: [1,2,3,4]
+    choices: [1,2,3,4,5,6,7,8,9,10,11,12]
 },
 {
     type: 'input', 
     name: 'username',
-    message: 'What is your GitHub username??'
+    message: 'What is your GitHub username, or a link to your Github profile?'
 },
 {
     type: 'input', 
