@@ -10,27 +10,41 @@ function renderLicenseLink(input) {}
 // If there is no license, return an empty string
 function renderLicenseSection(input) {}
 
-// TODO: Create a function to generate markdown for README
+
 function generateMarkdown(answers) {
   return `# ${answers.title}
 
 # Table of Contents
 1. [Description](#Description)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+2. [Installation](#Installation)
+2. [Usage Information](#Usage)    
+3. [Contribution Instructions](#Contribution)
+      I. [Contributors](#contributors)
+4. [Testing Instructions](#Testing)
+5. [Questions](#Questions?????!)
 
 ## Description <a name="Description"></a>
 ${answers.description}
 
-## Description <a name="Description"></a>
-${answers.description}
+## Installation <a name="Installation"></a>
+${answers.installation}
 
-## Description <a name="Description"></a>
-${answers.description}
+## Usage Information <a name="Usage"></a>
+${answers.usage}
 
-## Description <a name="Description"></a>
-${answers.description}
+## Contribution Instructions <a name="Contribution"></a>
+${answers.contribution}
+
+### Contributors<a name="contributors"></a>
+${answers.contributors}
+
+## Testing Instructions <a name="Testing"></a>
+${answers.test}
+
+## Questions? <a name="Questions?????!"></a>
+For questions you can reach me at:
+${answers.username} - My Github
+${answers.email} - My Email
 `;
 }
 

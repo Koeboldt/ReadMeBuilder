@@ -1,19 +1,33 @@
-# This is the title of the project
+# ReadmeBuilder
 
 # Table of Contents
 1. [Description](#Description)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+2. [Installation](#Installation)
+2. [Usage Information](#Usage)    
+3. [Contribution Instructions](#Contribution)
+      I. [Contributors](#contributors)
+4. [Testing Instructions](#Testing)
+5. [Questions](#Questions?????!)
 
 ## Description <a name="Description"></a>
-this is the description of the project
+This is a simple program that utelizes Inquirer to generate a Readme file for projects.
 
-## Description <a name="Description"></a>
-this is the description of the project
+## Installation <a name="Installation"></a>
+To install simply download the package from the repo, then open the file in the command line.
 
-## Description <a name="Description"></a>
-this is the description of the project
+## Usage Information <a name="Usage"></a>
+First you open the index.js file in the command line, then all you need to do is type node index.js to start. You will then be asked a series of questions pertaining to the readme file you need to answer all of them otherwise it will return an error. Once all questions have been answered the program will push a formatted readme file with the text you inputed.
 
-## Description <a name="Description"></a>
-this is the description of the project
+## Contribution Instructions <a name="Contribution"></a>
+I really don't know to be honest, since this is more of a personal project.
+
+### Contributors<a name="contributors"></a>
+Koeboldt(me)
+
+## Testing Instructions <a name="Testing"></a>
+I don't know go wild.
+
+## Questions? <a name="Questions?????!"></a>
+For questions you can reach me at:
+Https://github.com/Koeboldt - My Github
+darknesshammer@gmail.com - My Email
