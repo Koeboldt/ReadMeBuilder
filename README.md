@@ -5,9 +5,9 @@
 2. [Installation](#Installation)
 2. [Usage Information](#Usage)    
 3. [Contribution Instructions](#Contribution)
-      I. [Contributors](#contributors)
-4. [Testing Instructions](#Testing)
-5. [Questions](#Questions?????!)
+4. [Contributors](#contributors)
+5. [Testing Instructions](#Testing)
+6. [Questions](#Questions?????!)
 
 ## Description <a name="Description"></a>
 This is a simple program that utelizes Inquirer to generate a Readme file for projects.
