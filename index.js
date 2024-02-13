@@ -54,12 +54,11 @@ const questions = [{
     message: 'What is your Email address?'
 }];
 
-// TODO: Create a function to write README file
+
 function writeToFile(fileName, answers) {
     fs.writeFile(fileName ,generateMarkdown(answers), (err)=> console.log(err)); console.log(answers)
 }
 
-// TODO: Create a function to initialize app
 function init() {
     outquire.prompt(questions).then(answers => writeToFile('README.md', answers))}
 

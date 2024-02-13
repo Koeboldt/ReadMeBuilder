@@ -1,6 +1,6 @@
-# test
+# ReadMeBuilder
 
-  ![License](https://img.shields.io/badge/license-none-blue.svg)
+  ![License](https://img.shields.io/badge/license-MIT-blue.svg)
   
 # Table of Contents
 1. [Description](#Description)
@@ -12,24 +12,24 @@
 6. [Questions](#Questions?????!)
 
 ## Description <a name="Description"></a>
-test
+A simple program designed to use inquirer to build a README.
 
 ## Installation <a name="Installation"></a>
-test
+Download the required files from the repository.
 
 ## Usage Information <a name="Usage"></a>
-test
+First open the files in any node compatible code editor, then enter node index.js and answer the prompts.
 
 ## Contribution Instructions <a name="Contribution"></a>
-test
+None.
 
 ### Contributors<a name="contributors"></a>
-test
+This was a project made solely by me.
 
 ## Testing Instructions <a name="Testing"></a>
-test
+N/A
 
 ## Questions? <a name="Questions?????!"></a>
 For questions you can reach me at:
-<br/> test - My Github
-<br/> test - My Email
+<br/> https://github.com/Koeboldt - My Github
+<br/> Cian.Cagemoe@gmail.com - My Email
